@@ -4,6 +4,10 @@ This repository contains the hardware design, manufacturing, and simulation file
 
 ## 📋 Project Overview
 The circuit is a transistor-based linear voltage regulator utilizing a Zener diode reference to provide a stable power output. The design includes full PSpice simulation verification and production-ready manufacturing files.
+<img width="1910" height="1599" alt="image" src="https://github.com/user-attachments/assets/29296a07-e843-4346-ac1b-672417ce6a47" />
+<img width="2306" height="893" alt="image" src="https://github.com/user-attachments/assets/76c59658-6609-44ad-964c-2c4f93d86712" />
+
+
 
 ### Key Hardware Components
 * **Power Pass Transistors:** QMJD32CT4G
