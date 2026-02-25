@@ -12,9 +12,9 @@ The circuit is a transistor-based linear voltage regulator utilizing a Zener dio
 
 ## 📂 Repository Structure
 
-* `/Hardware` — Contains the core OrCAD design files (`.dsn` schematic, `.opj` project, and `.brd` PCB layout).
-* `/Gerbers` — Contains the production-ready `.art` and `.drl` files for PCB manufacturing (Top/Bottom copper, Soldermask, Silkscreen, and Drill data).
-* `/Simulation` — Contains the PSpice component models and text-based simulation results (DC Bias, Overcurrent Protection, Overvoltage Protection).
+* `/DESIGN AND PCB` — Contains the core OrCAD design files (`.dsn` schematic, `.opj` project, and `.brd` PCB layout).
+* `/LAYOUT` — Contains the production-ready `.art` and `.drl` files for PCB manufacturing (Top/Bottom copper, Soldermask, Silkscreen, and Drill data).
+* `/SIMULATIONS` — Contains the PSpice component models and text-based simulation results (DC Bias, Overcurrent Protection, Overvoltage Protection).
 
 ## 💻 Software Requirements
 To open the source files natively, you will need:
